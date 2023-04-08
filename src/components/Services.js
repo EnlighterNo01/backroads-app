@@ -1,5 +1,5 @@
 import Title from "./Title";
-import Services from "../data";
+import services from "../data";
 
 const Services = () => {
   return (
